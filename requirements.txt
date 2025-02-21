@@ -1,0 +1,4 @@
+tcod>=16.2.3
+numpy>=2.1.3c
+typing>=3.7.4.3
+soundfile>=0.13.1
