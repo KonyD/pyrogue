@@ -1,4 +1,4 @@
-# TCOD Roguelike
+# Pyrogue
 
 A simple roguelike game built using [libtcod](https://github.com/libtcod/libtcod) in Python. This game features procedurally generated dungeon levels, turn-based combat, and inventory management.
 
