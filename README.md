@@ -38,9 +38,10 @@ python main.py
 - **Arrow Keys / WASD** - Move the player
 - **G** - Pick up an item
 - **D** - Drop an item
-- **I** - Open inventory
+- **I** - Inventory
+- **X** - Settings
 - **[Item Key]** - Use an item (press the character next to your item)
-- **V** - Open message history
+- **V** - Message history
 - **Escape** - Exit game
 
 ## Screenshots
