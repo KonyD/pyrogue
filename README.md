@@ -18,8 +18,8 @@ Ensure you have Python installed, then clone the repository and install the requ
 
 ```sh
 # Clone the repository
-git clone https://github.com/KonyD/tcod-roguelike.git
-cd tcod-roguelike
+git clone https://github.com/KonyD/pyrogue.git
+cd pyrogue
 
 # Install dependencies
 pip install -r requirements.txt
@@ -38,6 +38,7 @@ python main.py
 - **Arrow Keys / WASD** - Move the player
 - **G** - Pick up an item
 - **D** - Drop an item
+- **SHIFT + PERIOD** - Go down stairs
 - **I** - Inventory
 - **X** - Settings
 - **[Item Key]** - Use an item (press the character next to your item)
