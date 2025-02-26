@@ -18,8 +18,8 @@ Ensure you have Python installed, then clone the repository and install the requ
 
 ```sh
 # Clone the repository
-git clone https://github.com/KonyD/tcod-roguelike.git
-cd tcod-roguelike
+git clone https://github.com/KonyD/pyrogue.git
+cd pyrogue
 
 # Install dependencies
 pip install -r requirements.txt
