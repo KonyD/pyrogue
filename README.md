@@ -51,7 +51,7 @@ python main.py
 ![Level Up Screenshot](./screenshots/screenshot2.png)
 ![Inventory Screenshot](./screenshots/screenshot3.png)
 
-## Roadmap
+## Todo
 
 Planned features for future updates:
 
